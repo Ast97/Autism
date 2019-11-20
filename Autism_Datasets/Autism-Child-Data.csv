@@ -268,7 +268,7 @@ A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,age,gender,ethnicity,jundice,austim,used_app_befo
 1,1,0,0,1,1,0,0,0,1,4,1,South Asian,0,0,0,5,Parent,0
 1,0,1,1,1,1,1,1,1,1,5,1,Others,0,0,0,9,Parent,1
 1,0,1,0,1,1,1,0,1,1,10,1,?,1,0,0,7,?,1
-1,0,1,0,0,0,1,1,0,0,9,1,Middle Eastern ',1,0,0,4,Parent,0
+1,0,1,0,0,0,1,1,0,0,9,1,Middle Eastern,1,0,0,4,Parent,0
 0,1,1,1,1,1,0,1,0,1,4,1,Asian,0,0,0,7,Parent,1
 1,0,1,0,0,0,0,0,1,0,4,0,White-European,0,1,0,3,Parent,0
 0,0,1,0,0,0,1,0,1,0,5,1,Black,0,0,0,3,Parent,0
@@ -290,4 +290,4 @@ A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,age,gender,ethnicity,jundice,austim,used_app_befo
 1,0,0,0,1,0,1,0,0,1,7,0,White-European,1,1,0,4,Parent,0
 1,0,1,1,1,1,1,0,0,1,4,1,Latino,0,0,0,7,Parent,1
 1,1,1,0,1,1,1,1,1,1,4,1,South Asian,0,0,0,9,Parent,1
-0,0,1,0,1,0,1,0,0,0,4,0,South Asian',0,0,0,3,Parent,0
+0,0,1,0,1,0,1,0,0,0,4,0,South Asian,0,0,0,3,Parent,0
