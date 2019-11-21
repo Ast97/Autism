@@ -284,7 +284,7 @@ A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,age,gender,ethnicity,jundice,austim,used_app_befo
 0,1,1,0,0,1,0,1,1,1,4,0,White-European,1,0,0,6,Parent,0
 0,0,0,0,1,1,1,0,1,0,5,1,Others,0,0,0,4,Parent,0
 1,0,1,0,1,1,1,0,0,1,10,0,White-European,0,0,0,6,Health care professional,0
-0,1,0,1,1,1,1,1,1,1,10,0,White-European,0,0,0,8,Health care professional',1
+0,1,0,1,1,1,1,1,1,1,10,0,White-European,0,0,0,8,Health care professional,1
 0,1,1,1,1,1,1,1,1,1,5,0,Latino,1,0,0,9,Parent,1
 1,1,1,1,1,1,1,1,1,1,7,0,White-European,1,1,0,10,Parent,1
 1,0,0,0,1,0,1,0,0,1,7,0,White-European,1,1,0,4,Parent,0
