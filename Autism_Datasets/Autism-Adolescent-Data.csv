@@ -6,9 +6,9 @@ A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,age,gender,ethnicity,jaundice,autism,used_app_bef
 1,1,1,1,1,1,1,0,0,0,16,0,?,0,0,0,7,?,1
 1,0,0,0,0,1,0,0,1,0,13,0,?,0,0,0,3,?,0
 0,0,0,1,1,1,1,1,1,0,16,0,?,0,0,0,6,?,0
-1,1,0,1,1,0,1,1,0,1,15,0,Middle Eastern ',0,0,0,7,Parent,1
+1,1,0,1,1,0,1,1,0,1,15,0,Middle Eastern,0,0,0,7,Parent,1
 1,1,1,1,1,1,0,0,0,0,12,1,Black,1,1,0,6,Parent,0
-0,1,1,0,0,1,0,0,1,0,12,0,South Asian',0,0,0,4,Parent,0
+0,1,1,0,0,1,0,0,1,0,12,0,South Asian,0,0,0,4,Parent,0
 1,0,0,0,1,1,0,1,1,0,13,0,Middle Eastern,1,0,0,5,Parent,0
 1,0,0,0,1,1,0,0,1,1,13,0,White-European,0,0,0,5,Self,0
 1,0,0,1,1,1,0,1,1,1,12,0,Others,0,0,0,7,Self,1
@@ -24,7 +24,7 @@ A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,age,gender,ethnicity,jaundice,autism,used_app_bef
 1,1,1,1,1,1,1,1,1,1,15,0,White-European,0,0,0,10,Parent,1
 1,0,1,1,1,1,1,1,1,1,13,1,Middle Eastern,0,1,0,9,Parent,1
 1,1,1,1,1,1,1,1,1,1,14,1,Hispanic,0,0,0,10,Self,1
-1,0,1,1,1,1,0,1,1,1,12,0,Others,0,0,0,8,Health care professional',1
+1,0,1,1,1,1,0,1,1,1,12,0,Others,0,0,0,8,Health care professional,1
 1,1,0,1,0,0,0,0,0,0,12,1,Middle Eastern,0,0,0,3,Self,0
 1,0,1,1,1,0,0,0,1,1,14,0,White-European,0,0,0,6,Self,0
 1,1,0,0,0,0,1,0,1,0,13,1,?,0,0,0,4,?,0
